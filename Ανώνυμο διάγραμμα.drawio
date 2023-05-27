@@ -1,49 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T11:07:37.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="77kNCR1ODDR56uQ4qmdp" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T11:09:08.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sHUQ3Lv5QF3Z2j34fA8K" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="9jjIvGcrPunl4pUG9XgE">
     <mxGraphModel dx="1707" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vPbflDGvp13sBScF6JYu-1" value="πελάτης&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-1" value="πελάτης&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="50" y="140" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-3" value="manager" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-3" value="manager" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="330" y="220" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-4" value="διανομέας" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-4" value="διανομέας" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="590" y="310" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-5" value="techsupport" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-5" value="techsupport" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="600" y="90" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-6" value="σ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-6" value="σ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="160" y="370" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-8" value="marketing team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-8" value="marketing team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="310" y="50" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-9" value="θέλω να ξέρω πληροφορίες για τα προιόντα&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#0A0A0A;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-9" value="θέλω να ξέρω πληροφορίες για τα προιόντα&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#0A0A0A;" parent="1" vertex="1">
           <mxGeometry x="50" y="30" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-10" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-10" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="390" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-11" value="καλύτερη εικόνα του καταστήματος&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#080808;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-11" value="καλύτερη εικόνα του καταστήματος&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#080808;" parent="1" vertex="1">
           <mxGeometry x="235" y="280" width="135" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-15" value="θέλω να μου στείλουν το προιόν σπίτι μου" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ivp22cxwNibPHCmtNEcD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vPbflDGvp13sBScF6JYu-15" target="vPbflDGvp13sBScF6JYu-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPbflDGvp13sBScF6JYu-15" value="θέλω να μου στείλουν το προιόν σπίτι μου" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="90" y="120" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-16" value="θέλω να αξιολογήσω το προιόν" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-16" value="θέλω να αξιολογήσω το προιόν" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-60" y="70" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-17" value="δεν έχω χρόνο να πάω στο κατάστημα&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-17" value="δεν έχω χρόνο να πάω στο κατάστημα&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-70" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-18" value="δυσκολεύομαι να βρω το κατάλληλο προιόν" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ivp22cxwNibPHCmtNEcD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.067;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vPbflDGvp13sBScF6JYu-18" target="vPbflDGvp13sBScF6JYu-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="277" />
+              <mxPoint x="10" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ivp22cxwNibPHCmtNEcD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.542;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vPbflDGvp13sBScF6JYu-18" target="vPbflDGvp13sBScF6JYu-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPbflDGvp13sBScF6JYu-18" value="δυσκολεύομαι να βρω το κατάλληλο προιόν" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vPbflDGvp13sBScF6JYu-19" target="vPbflDGvp13sBScF6JYu-24">
+        <mxCell id="vPbflDGvp13sBScF6JYu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vPbflDGvp13sBScF6JYu-19" target="vPbflDGvp13sBScF6JYu-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-5" y="360" />
@@ -51,37 +73,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-19" value="θέλω βοήθεια με την αγκατάστςση" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-19" value="θέλω βοήθεια με την αγκατάστςση" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-65" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-21" value="θέλω περισσότερες πληροφορίες για το προιόν και τον παραλήπτη" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-21" value="θέλω περισσότερες πληροφορίες για το προιόν και τον παραλήπτη" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="650" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-22" value="δυσκολεύομαι να βρω τα σπίτια των παραλήπτων" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-22" value="δυσκολεύομαι να βρω τα σπίτια των παραλήπτων" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="480" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-23" value="αργώ να εξυπηρετήσω όλους τους πελάτες&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-23" value="αργώ να εξυπηρετήσω όλους τους πελάτες&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="20" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-24" value="μου ζητάνε τεχνικές λεπτομέριες που δεν γνωρίζω" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-24" value="μου ζητάνε τεχνικές λεπτομέριες που δεν γνωρίζω" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="205" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-25" value="θέλω να προτείνω στους πελάτες προιόντα" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-25" value="θέλω να προτείνω στους πελάτες προιόντα" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="85" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-26" value="είναι δύσκολο να καταγράψουμε την δημοφιλία των προιόντων" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#0D0D0D;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-26" value="είναι δύσκολο να καταγράψουμε την δημοφιλία των προιόντων" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#0D0D0D;" parent="1" vertex="1">
           <mxGeometry x="377" y="50" width="146" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-27" value="θέλουμε να κάνουμε εξατομικευμένες προτάσεις αγοράς&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#0D0D0D;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-27" value="θέλουμε να κάνουμε εξατομικευμένες προτάσεις αγοράς&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#0D0D0D;" parent="1" vertex="1">
           <mxGeometry x="190" y="-15" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-28" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-28" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="665" y="40" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-29" value="θέλουμε να ξέρουμε την άποψη του κόσμου για τα προιόντα" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#0F0F0F;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-29" value="θέλουμε να ξέρουμε την άποψη του κόσμου για τα προιόντα" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#0F0F0F;" parent="1" vertex="1">
           <mxGeometry x="360" y="-45" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="330" width="30" height="50" as="geometry" />
         </mxCell>
       </root>
