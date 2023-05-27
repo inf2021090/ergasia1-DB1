@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T12:15:01.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AZWo-a-KKQIvmC0szZt1" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T12:31:01.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xgdRdsRM9qopEyPCNrWE" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="9jjIvGcrPunl4pUG9XgE">
     <mxGraphModel dx="1707" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="vPbflDGvp13sBScF6JYu-4" value="διανομέας" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="590" y="310" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-5" value="techsupport" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-5" value="techsupport" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#2B2B2B;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="610" y="110" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPbflDGvp13sBScF6JYu-6" value="υπαλληλος" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="160" y="370" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vPbflDGvp13sBScF6JYu-8" value="marketing team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="vPbflDGvp13sBScF6JYu-8" value="marketing team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="310" y="50" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vPbflDGvp13sBScF6JYu-9" value="θέλω να ξέρω πληροφορίες για τα προιόντα&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#0A0A0A;" parent="1" vertex="1">
