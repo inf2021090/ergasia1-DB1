@@ -80,3 +80,19 @@ Public και η Electroholic.
 |Owners |plaisio|
 |enviroment|άλλες εταιρίες|
 
+____________________________
+
+# ΣΧΕΔΙΑΣΗ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑΣ ΠΛΗΡΟΦΟΡΙΑΚΟΥ ΣΥΣΤΗΜΑΤΟΣ
+
+![dfd1](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/f9393841-bfc4-4691-a866-bf63e3c66bb5)
+
+![search](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/4fc3b423-545f-4e4f-a413-e1bce401a143)
+
+![calcstatistics](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/589de64f-48a4-4fc4-9f0c-0fffe9e2ac52)
+
+![buy](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/f2d6af52-8503-4e40-b1ab-4b5526b667d7)
+
+
+
+
+
