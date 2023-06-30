@@ -1,5 +1,5 @@
 
-![ιντρο](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/923e7e22-494e-4fd2-b248-655b4909c59d)
+![ccec](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/923e7e22-494e-4fd2-b248-655b4909c59d)
 
 ### Καφτεράνης Κωνσταντίνος inf2021090
 
@@ -105,7 +105,7 @@ Public και η Electroholic.
 |Owners |plaisio|
 |enviroment|άλλες εταιρίες|
 
-![concσδδ](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/634ad344-93c3-4735-ba57-e958495753ed)
+![conrfr](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/634ad344-93c3-4735-ba57-e958495753ed)
 
 # ΣΧΕΔΙΑΣΗ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑΣ ΠΛΗΡΟΦΟΡΙΑΚΟΥ ΣΥΣΤΗΜΑΤΟΣ
 
@@ -131,9 +131,9 @@ Public και η Electroholic.
 
 ![er2](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/7f5bfb73-df4e-48ae-82ac-4a160b389e3c)
 
-![ΔΔΠ](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/d25fbc87-322c-460f-9fc9-f8ff30a6440f)
+![errr4](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/d25fbc87-322c-460f-9fc9-f8ff30a6440f)
 
-![ΙΠΟ](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/23e80380-236c-4f84-b51a-4d8fb30dfbab)
+![eeer](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/23e80380-236c-4f84-b51a-4d8fb30dfbab)
 
 # ΣΥΜΠΕΡΑΣΜΑΤΑ
 
