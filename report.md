@@ -103,8 +103,6 @@ Public και η Electroholic.
 
 ![ΔΔΠ](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/d25fbc87-322c-460f-9fc9-f8ff30a6440f)
 
-
-
 ![ΙΠΟ](https://github.com/inf2021090/ergasia1-DB1/assets/115289409/23e80380-236c-4f84-b51a-4d8fb30dfbab)
 
 
